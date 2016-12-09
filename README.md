@@ -8,6 +8,8 @@ Please do not use old version for BSON dependence, new Java drive can be compati
 BSON dependence(I provide 3.4 version in my package)
 
 ## Example
+
+```
 import java.util.Date;
 
 import cn.bigforce.bean2bson.Bean2Bson;
@@ -25,3 +27,4 @@ public class Test {
 	}
 	
 }
+```
